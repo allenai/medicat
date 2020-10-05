@@ -8,6 +8,8 @@ The dataset consists of:
 * 7507 subcaption and subfigure annotations for 2069 compound figures
 * Inline references for ~25K figures in the [ROCO dataset](https://github.com/razorx89/roco-dataset)
 
+A sample of the data is available in `sample/`.
+
 ### To download:
 
 Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access.
