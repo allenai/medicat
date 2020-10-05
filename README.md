@@ -45,7 +45,7 @@ The corresponding figure is located at `figures/57c9ad0f4aab133f96d40992c46926fa
 
 ### To download:
 
-Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access.
+Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access. We will respond to your request within 48 hours.
 
 ### To cite:
 
