@@ -25,6 +25,10 @@ If using this dataset, please cite:
 }
 ```
 
+### License
+
+Each source document in MedICaT is licensed differently. Articles included in MedICaT have CC licenses or are in the public domain. The license for each article is provided in the associated entry in the dataset. Please abide by these licenses when using.
+
 ## Contact us
 
 **Email:** `{sanjays, lucyw}@allenai.org`
