@@ -10,6 +10,39 @@ The dataset consists of:
 
 A sample of the data is available in `sample/`.
 
+An example data entry:
+
+```
+{
+  "pdf_hash": "57c9ad0f4aab133f96d40992c46926fabc901ffa",
+  "fig_key": "Figure1",
+  "fig_uri": "2-Figure1-1.png",
+  "s2_caption": "Figure 1. (A) Barium enema and (B) endoscopic image of the high-grade distal colonic obstruction caused by a 5-cm anastomotic stricture.",
+  "s2orc_caption": "Figure 1. (A) Barium enema and (B) endoscopic image of the high-grade distal colonic obstruction caused by a 5-cm anastomotic stricture.",
+  "s2orc_references": [
+    "Computed tomography (CT) showed a distal large bowel obstruction, and a barium enema revealed a high-grade stenosis proximal to the anastomotic site in the recto-sigmoid region (Figure 1 ).",
+    "Flexible sigmoidoscopy revealed a tight, fibrotic, benign-appearing anastomotic stricture 15 cm from the anal verge ( Figure 1) ."
+  ],
+  "radiology": false,
+  "scope": true,
+  "predicted_type": "Medical images",
+  "oa_info": {
+    "doi": "10.14309/crj.2014.54",
+    "doi_url": "https://doi.org/10.14309/crj.2014.54",
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "journal_is_oa": true,
+      "journal_is_in_doaj": true,
+      "license": "cc-by-nc-nd",
+      "provenance": "unpaywall"
+    }
+  }
+}
+```
+
+The corresponding figure is located at `figures/57c9ad0f4aab133f96d40992c46926fabc901ffa_2-Figure1-1.png` (`{pdf_hash}_{fig_uri}`).
+
 ### To download:
 
 Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access.
