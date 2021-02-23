@@ -31,3 +31,6 @@ allennlp predict serialized_directory/model.tar.gz /path/to/test/set --use-datas
 allennlp train train_configs/image_text_matching.jsonnet -s serialized_directory --include-package matching
 allennlp predict serialized_directory/model.tar.gz /path/to/test/set --include-package matching --use-dataset-reader --dataset-reader validation --output-file /path/to/output/file --predictor generic -o "{"model": {"full_matching": "true"}}" [--cuda-device OPTIONAL-CUDA-DEVICE]
 ```
+
+## Acknowledgements
+`subcaption/coco_eval.py` is a slightly modified version of [this torchvision file][https://github.com/pytorch/vision/blob/master/references/detection/coco_eval.py]. `subcaption/utils.py` was taken from [this repository][https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection/blob/master/utils.py].
