@@ -45,7 +45,7 @@ The corresponding figure is located at `figures/57c9ad0f4aab133f96d40992c46926fa
 
 ### To download:
 
-Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access. We will respond to your request within 48 hours.
+Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access. If you have not received links to the dataset after 5 days, please contact [mailto:lucyw@allenai.org](lucyw@allenai.org) to inquire. Sometimes access emails also wind up in spam boxes, so please check there first before emailing. 
 
 ### Code
 Please see the `code` directory for the code associated with our paper. The `code/README.md` includes additional information about how you can use this code.
