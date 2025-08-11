@@ -45,7 +45,13 @@ The corresponding figure is located at `figures/57c9ad0f4aab133f96d40992c46926fa
 
 ### To download:
 
-Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdB6w2HHNtD-v6SJr3wFMQl8WxR-wigrfVJPvqI-RR50miI7w/viewform) for access. If you have not received links to the dataset after 5 days, please contact [lucyw@allenai.org](mailto:lucyw@allenai.org) to inquire. Sometimes access emails also wind up in spam boxes, so please check there first before emailing. 
+Figure, caption, and reference data (104 Gb): https://ai2-s2-medicat.s3.us-west-2.amazonaws.com/2020-10-05/medicat_release.tar.gz 
+
+Subcaption/subfigure annotations (14 Mb): https://ai2-s2-medicat.s3.us-west-2.amazonaws.com/2020-10-05/subcaptions_public.jsonl
+
+Inline references for ROCO dataset (3 Mb): https://ai2-s2-medicat.s3.us-west-2.amazonaws.com/2020-10-05/roco_references.zip
+
+This data can only be used for research purposes. Please abide by the licenses for reuse.
 
 ### Code
 Please see the `code` directory for the code associated with our paper. The `code/README.md` includes additional information about how you can use this code.
@@ -67,7 +73,7 @@ If using this dataset, please cite:
 
 Each source document in MedICaT is licensed differently. Articles included in MedICaT have open access licenses (see [CC](https://creativecommons.org/licenses/) and [UPW](https://support.unpaywall.org/support/solutions/folders/44000384007)) or are in the public domain. The license for each article is provided in the associated entry in the dataset. Please abide by these licenses when using. The MedICaT dataset is available for non-commercial use only.
 
-## Contact us
+## Contact information for questions
 
-**Email:** `{sanjays, lucyw}@allenai.org`
+**Email:** `lucylw@uw.edu`
 
