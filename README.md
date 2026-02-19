@@ -49,6 +49,8 @@ Figure, caption, and reference data (104 Gb): https://ai2-s2-medicat.s3.us-west-
 
 Subcaption/subfigure annotations (14 Mb): https://ai2-s2-medicat.s3.us-west-2.amazonaws.com/2020-10-05/subcaptions_public.jsonl
 
+Train/val/test splits for subcaption task (0.2 Mb): https://ai2-s2-medicat.s3.us-west-2.amazonaws.com/2020-10-05/subcaption_split_keys.json
+
 Inline references for ROCO dataset (3 Mb): https://ai2-s2-medicat.s3.us-west-2.amazonaws.com/2020-10-05/roco_references.zip
 
 This data can only be used for research purposes. Please abide by the licenses for reuse.
