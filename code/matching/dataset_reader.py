@@ -53,7 +53,7 @@ class MatchingDatasetReader(DatasetReader):
             lines = f.readlines()
             examples = [json.loads(line) for line in lines]
             for i, ex in enumerate(examples):
-                if self.limit is not None and i > self.limit:
+                if self.limit is not None and i >= self.limit:
                     break
                 image_path = os.path.join(self.image_root, ex['image_id'])
                 image_id = ex['image_id']
